@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKenneth-Lab&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical&border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JKenneth-Lab&icon=9&color=1)](https://visitcount.itsvg.in)
